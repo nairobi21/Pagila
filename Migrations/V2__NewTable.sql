@@ -1,0 +1,1 @@
+CREATE TABLE Temp (id int);
